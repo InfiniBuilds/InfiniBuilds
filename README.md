@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/infinity.gif" width="520" alt="InfiniBuilds Infinity Protocol" />
+<img src="./infinity.gif" width="520" alt="InfiniBuilds Infinity Protocol" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=850&lines=%3E+SWAROOP+D+S+%2F%2F+INFINIBUILDS;%3E+FULL-STACK+ENGINEER;%3E+SECURITY+RESEARCHER;%3E+POST-QUANTUM+CRYPTO+EXPLORER;%3E+BUILD.+BREAK.+ANALYSE.+REBUILD." alt="Terminal typing animation" />
 
