@@ -1,267 +1,242 @@
 <div align="center">
 
-<img src="./assets/infinity.svg" width="180" alt="Animated infinity symbol" />
+<img src="assets/infinity.gif" width="520" alt="InfiniBuilds Infinity Protocol" />
 
-# `SWAROOP D S // INFINIBUILDS`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=850&lines=%3E+SWAROOP+D+S+%2F%2F+INFINIBUILDS;%3E+FULL-STACK+ENGINEER;%3E+SECURITY+RESEARCHER;%3E+POST-QUANTUM+CRYPTO+EXPLORER;%3E+BUILD.+BREAK.+ANALYSE.+REBUILD." alt="Terminal typing animation" />
 
-### `FULL-STACK ENGINEER` · `SECURITY RESEARCHER` · `QUANTUM CRYPTOGRAPHY EXPLORER`
+<br/>
 
-```text
-[ SYSTEM ]  identity loaded
-[ STATUS ]  building // researching // breaking assumptions
-[ FOCUS  ]  post-quantum cryptography + cybersecurity + intelligent systems
-```
+`[ ACCESS GRANTED ]` &nbsp; `PES UNIVERSITY // CSE` &nbsp; `[ STATUS: BUILDING ]`
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge\&logo=vercel\&logoColor=black)](https://shivaswaroopportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://linkedin.com/in/swaroop-d-s-1b0253331)
-[![GitHub](https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/InfiniBuilds)
+<br/><br/>
+
+<a href="https://shivaswaroopportfolio.netlify.app/"><img src="https://img.shields.io/badge/%3E_%20PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=1F6FEB"/></a>
+<a href="https://linkedin.com/in/swaroop-d-s-1b0253331"><img src="https://img.shields.io/badge/%3E_%20LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117&color=1F6FEB"/></a>
+<a href="https://github.com/InfiniBuilds"><img src="https://img.shields.io/badge/%3E_%20GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=1F6FEB"/></a>
 
 </div>
 
----
-
-```bash
-swaroop@InfiniBuilds:~$ ./initialize_profile.sh
-
-[+] Booting developer profile ............... OK
-[+] Loading security modules ................ OK
-[+] Establishing quantum-safe tunnel ........ OK
-[+] Infinity protocol ....................... ACTIVE
-
-> ACCESS GRANTED
-```
-
-## `01 // WHOAMI`
-
-```yaml
-identity:
-  name: "Swaroop D S"
-  alias: "InfiniBuilds"
-  role:
-    - "Full-Stack Engineer"
-    - "Security Researcher"
-  education: "B.Tech CSE @ PES University"
-
-current_mode: "BUILD // RESEARCH // ITERATE"
-
-interests:
-  - "Post-Quantum Cryptography"
-  - "Cybersecurity"
-  - "Quantum Computing"
-  - "Full-Stack Systems"
-  - "AI × Security"
-```
-
-> I build systems, explore cryptography, and spend an unreasonable amount of time asking one question:
->
-> **`what breaks when the assumptions change?`**
-
----
-
-## `02 // CURRENT_MISSION`
+<br/>
 
 ```console
-swaroop@InfiniBuilds:~$ cat /var/log/current_mission.log
+┌──(swaroop㉿InfiniBuilds)-[~]
+└─$ ./whoami --verbose
 
-[ACTIVE] Exploring quantum-resistant cryptographic systems
-[ACTIVE] Researching Post-Quantum Cryptography algorithms
-[ACTIVE] Building secure communication prototypes
-[ACTIVE] Studying core cybersecurity principles
-[QUEUED] Integrating AI into threat detection systems
+[+] IDENTITY      : SWAROOP D S
+[+] ROLE          : FULL-STACK ENGINEER // SECURITY RESEARCHER
+[+] CURRENT OPS   : POST-QUANTUM CRYPTOGRAPHY
+[+] SIDE QUEST    : DESIGN // VIDEO EDITING
+[+] SYSTEM STATE  : LEARNING. BUILDING. ITERATING.
+
+┌──(swaroop㉿InfiniBuilds)-[~]
+└─$ █
 ```
 
-### `> PRIMARY RESEARCH THREAD`
+## `> cat /proc/current_mission`
+
+<table>
+<tr>
+<td width="55%">
+
+```text
+MISSION_ID : Q-ORCHESTRATOR
+STATE      : ACTIVE RESEARCH
+
+TARGET:
+Real-time quantum-resistant
+communication for Banking + IoT.
+
+CRYPTO STACK:
+├─ ML-KEM / Kyber
+├─ ML-DSA / Dilithium
+├─ AES-256
+└─ Hybrid cryptographic profiles
+
+OPERATIONS:
+├─ Quantum-safe key exchange
+├─ Authentication & signatures
+├─ Encrypted communication
+└─ Performance benchmarking
+```
+
+</td>
+<td width="45%" align="center">
+
+### `THREAT_MODEL.exe`
+
+```text
+      CLASSICAL SYSTEM
+             │
+             ▼
+   HARVEST NOW ───────┐
+                      │
+              QUANTUM ERA
+                      │
+                      ▼
+               DECRYPT LATER
+                      │
+                      ▼
+              [ DATA EXPOSED ]
+
+              ── VS ──
+
+     PQC + AES-256 HYBRID
+              │
+              ▼
+       [ QUANTUM-RESILIENT ]
+```
+
+</td>
+</tr>
+</table>
+
+> **Research question:** `How do we make post-quantum security practical enough for real-time systems?`
+
+---
+
+## `> ls ~/projects --classified`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `0x01 // Q-ORCHESTRATOR` 🔐
 
 **Quantum-Resistant Secure Communication Framework**
 
-```text
-BANKING / IoT DATA
-        │
-        ▼
-┌───────────────────────────────┐
-│   QUANTUM-SAFE SECURITY LAYER │
-├───────────────────────────────┤
-│  ML-KEM / KYBER     → KEY EXCHANGE
-│  ML-DSA / DILITHIUM → SIGNATURES
-│  AES-256            → DATA SECURITY
-└───────────────────────────────┘
-        │
-        ▼
-ENCRYPTED COMMUNICATION CHANNEL
-```
+`Python` `Qiskit` `ML-KEM` `ML-DSA` `AES-256`
 
-`Objective:` Build and benchmark a hybrid post-quantum framework for secure real-time banking and IoT communication.
+Building a hybrid PQC framework for banking and IoT communication. Benchmarking key generation, encryption/decryption, signatures and latency against classical cryptography.
 
-`Research:` Key generation · encryption/decryption · digital signatures · transaction latency · RSA/ECC comparison.
+`STATUS: ███████░░░ RESEARCHING`
 
----
+</td>
+<td width="50%" valign="top">
 
-## `03 // PROJECT_DATABASE`
+### `0x02 // VIRTUAL_WARDROBE.AI` 🧠
 
-```bash
-swaroop@InfiniBuilds:~$ ls -la ./projects/
-```
+**AI-Powered Personal Stylist**
 
-### `[0x01] QUANTUM-RESISTANT SECURE COMMUNICATION FRAMEWORK` `// ONGOING`
+`React` `Node.js` `Express` `MongoDB` `Gemini`
 
-`Python` `Qiskit` `Kyber / ML-KEM` `Dilithium / ML-DSA` `AES-256`
+Context-aware outfit recommendations using real-time weather and calendar data, with wear-count and laundry-state tracking.
 
-> Hybrid cryptographic framework designed to demonstrate quantum-safe key exchange, authentication, and encrypted communication for banking and IoT systems.
+`STATUS: ██████████ ONLINE`
 
-```text
-STATUS      : RESEARCH + DEVELOPMENT
-THREAT      : HARVEST NOW, DECRYPT LATER
-DEFENCE     : POST-QUANTUM CRYPTOGRAPHY
-BENCHMARK   : PQC <-> RSA / ECC
-```
+</td>
+</tr>
 
-### `[0x02] VIRTUAL WARDROBE` `// ONLINE`
+<tr>
+<td width="50%" valign="top">
 
-`React` `Node.js` `Express` `MongoDB` `Gemini AI`
+### `0x03 // PRESCRIPTIFY.C` ⚕️
 
-> AI-powered personal stylist that digitizes clothing collections and generates context-aware outfit suggestions using weather and calendar data.
+**Digital Prescription Management**
 
-```text
-MODULES:
-├── AI outfit recommendation
-├── weather-aware suggestions
-├── calendar context integration
-├── wear-count tracking
-└── laundry-state management
-```
+`C` `HTML` `CSS` `File I/O`
 
-### `[0x03] PRESCRIPTIFY` `// ONLINE`
+Role-based prescription system for doctors and patients with prescription history and modular record management using structs, arrays and file handling.
 
-`C` `HTML` `CSS` `File Handling`
+`STATUS: ██████████ ONLINE`
 
-> Digital prescription management system with role-based access for doctors and patients.
+</td>
+<td width="50%" valign="top">
 
-```text
-ACCESS_MATRIX:
-DOCTOR  -> CREATE / VIEW / DELETE PRESCRIPTIONS
-PATIENT -> VIEW / ACCESS HISTORY
+### `0x04 // NEURAL_HIVE.WEB` 🕸️
 
-DATA_LAYER -> STRUCTS + ARRAYS + FILE I/O
-```
-
-### `[0x04] NEURAL HIVE WEBSITE` `// DEPLOYED`
+**Content-First Blog Platform**
 
 `Astro` `HTML` `CSS` `JavaScript`
 
-> Lightweight blog-focused platform designed around maintainable content workflows and easier publishing for non-technical writers.
+A lightweight publishing platform designed to reduce friction for non-technical writers and keep the content workflow maintainable.
+
+`STATUS: ██████████ DEPLOYED`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `04 // TECH_ARSENAL`
-
-```json
-{
-  "languages": [
-    "C",
-    "C++",
-    "Python",
-    "JavaScript"
-  ],
-  "web": [
-    "HTML",
-    "CSS",
-    "React",
-    "Node.js",
-    "Express",
-    "Astro"
-  ],
-  "security_and_quantum": [
-    "Cryptography",
-    "Post-Quantum Cryptography",
-    "Qiskit"
-  ],
-  "infrastructure": [
-    "Git",
-    "GitHub",
-    "Vercel",
-    "Netlify",
-    "VS Code"
-  ],
-  "creative_modules": [
-    "Video Editing",
-    "Design"
-  ]
-}
-```
+## `> ./load_arsenal.sh`
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c\&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=cplusplus\&logoColor=00FF41)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge\&logo=python\&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge\&logo=javascript\&logoColor=00FF41)
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge\&logo=react\&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge\&logo=nodedotjs\&logoColor=00FF41)
-![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge\&logo=mongodb\&logoColor=00FF41)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge\&logo=git\&logoColor=00FF41)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,mongodb,astro,git,github,vscode&theme=dark&perline=7" />
 
-</div>
-
----
-
-## `05 // RESPONSIBILITY_LOG`
-
-```log
-[ KANNADA KOOTA ] Technical & Design Head
-[ NEURAL HIVE  ] Web Development Member
-
-> engineering logic by day
-> designing pixels when the terminal gets boring
-```
-
----
-
-## `06 // GITHUB_TELEMETRY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=InfiniBuilds&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniBuilds&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=InfiniBuilds&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-</div>
-
----
-
-## `07 // FUTURE_TARGETS`
-
-```diff
-+ Build practical post-quantum security systems
-+ Explore AI-assisted cybersecurity threat detection
-+ Strengthen core security and cryptography knowledge
-+ Ship systems that survive outside localhost
-+ Build. Break. Analyse. Rebuild.
-```
-
----
-
-<div align="center">
+<br/><br/>
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   "THE SYSTEM IS NEVER SECURE.                       │
-│    IT IS ONLY SECURE AGAINST WHAT YOU TESTED FOR."   │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+[ CRYPTOGRAPHY ]  Post-Quantum Cryptography // Qiskit // Hybrid Security
+[ ENGINEERING  ]  Full-Stack Systems // APIs // Data Structures
+[ CREATIVE     ]  Design // Video Editing
 ```
 
-### `∞ // THERE IS ALWAYS ANOTHER ITERATION`
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=InfiniBuilds\&color=00ff41\&style=flat-square\&label=SYSTEM+INTRUSIONS)
+---
 
-```bash
-swaroop@InfiniBuilds:~$ echo "Ready to build."
-Ready to build.
+## `> cat responsibility.log`
 
-swaroop@InfiniBuilds:~$ █
+```diff
++ [ KANNADA KOOTA ]  TECHNICAL & DESIGN HEAD
++ [ NEURAL HIVE  ]  WEB DEVELOPMENT MEMBER
+
+! engineering systems
+! designing interfaces
+! researching what happens when today's cryptography meets tomorrow's computers
 ```
+
+---
+
+## `> ./telemetry --live`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=InfiniBuilds&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniBuilds&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=InfiniBuilds&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniBuilds&bg_color=0D1117&color=39FF14&line=39FF14&point=C9D1D9&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## `> cat future_targets.enc`
+
+```text
+[01] DEEPEN POST-QUANTUM CRYPTOGRAPHY RESEARCH
+[02] BUILD PRACTICAL QUANTUM-SAFE SYSTEMS
+[03] EXPLORE AI × CYBERSECURITY THREAT DETECTION
+[04] STRENGTHEN CORE SECURITY FUNDAMENTALS
+[05] SHIP SYSTEMS THAT SURVIVE OUTSIDE LOCALHOST
+```
+
+<div align="center">
+
+<br/>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║    THERE IS NO FINAL BUILD.                              ║
+║    THERE IS ALWAYS ANOTHER ITERATION.                ∞   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=InfiniBuilds&label=SYSTEM%20INTRUSIONS&color=39ff14&style=flat-square" />
+
+<br/><br/>
+
+`swaroop@InfiniBuilds:~$ echo "Ready to build."`
+
+### `Ready to build. █`
 
 </div>
